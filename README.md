@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi, I'm Rebecca Sun 👋
+A CS student at National Yang Ming Chiao Tung University, Taiwan.
 
 <!--
 **Rebeccasun31/Rebeccasun31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
